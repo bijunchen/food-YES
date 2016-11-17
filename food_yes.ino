@@ -1,4 +1,5 @@
 //Vibrating the motor whenever you buddy makes the "shall we go?" gesture
+//special thanks: Mudit Ganguly
 
 #define trigPin 7
 #define echoPin 6
